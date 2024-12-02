@@ -30,5 +30,3 @@ remarks about sum-pos
 ; and finally, it will count and display the total number of positive numbers in the array.
 
 
-
-Overall remarks
