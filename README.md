@@ -20,15 +20,14 @@ remarks about sum-even
 
 remarks about sum-odd
 
-
-; In this task we have to calculate the sum of all odd numbers in an array , for this we will see all the odd numbers 
-; then we will calculate its sum , also used jump command if the numbers is even it will skip addition. Thirldly, will 
-; count and display total odd numbers 
+; This task involves calculating the sum of all odd numbers in an array.
+; The program identifies odd numbers, adds them to the sum, and uses a jump command to bypass even numbers.
+; Additionally, it keeps track of the total count of odd numbers and displays the result.
 
 remarks about sum-pos
-; So in this Task we have to calculate the sum of positive Numbers in an array For this we will first check the Positive 
-; Numbers in array , then we will calculate its Sum and lastly we will also count the total positive numbers 
-; in the array 
+; In this task, we need to find the sum of all positive numbers in an array.
+; The program will first identify the positive numbers, then calculate their sum,
+; and finally, it will count and display the total number of positive numbers in the array.
 
 
 
